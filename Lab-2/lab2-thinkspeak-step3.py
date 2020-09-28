@@ -5,6 +5,9 @@ import json
 
 import random
 
+# Lab 2 Thinkspeak Part 3
+# Modified From https://github.com/soumilshah1995/python-youtube-tutorials/blob/master/thingspeak%20Python.py
+
 
 # Define a function that will post on server every 15 Seconds
 
