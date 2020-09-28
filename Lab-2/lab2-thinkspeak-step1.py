@@ -1,6 +1,10 @@
 import httplib
 import urllib
 import time
+
+# Lab 2 Thinkspeak Part 1
+# From https://iotdesignpro.com/projects/how-to-send-data-to-thingspeak-cloud-using-raspberry-pi
+
 key = "YL1FVX6P0NJVEYOJ"  # Put your API Key here
 def thermometer():
     while True:
