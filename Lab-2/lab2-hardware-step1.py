@@ -42,7 +42,7 @@ sense.set_pixels(capital_J)
 ####
 # Main Loop
 ####
-
+counter=0
 while True:
     events = sense.stick.get_events()
     if events:
